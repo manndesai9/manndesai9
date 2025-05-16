@@ -1,23 +1,8 @@
-# Hi, I'm Mann Desai! 👋
+Hi! This is my GitHub profile. I started using GitHub because I want to learn coding better and show what I can do. For me, GitHub is a place where I keep all my projects and ideas.
 
-I’m an **IT Engineering student** from **Gujarat, India**, passionate about **web development** and creating impactful, innovative solutions. I’m focused on mastering **JavaScript** and building projects that help me grow both technically and personally.
+I like to try new things, build small apps, and learn from others. Sometimes I make mistakes, but that's how I grow. I believe sharing my work here helps me get better and also connect with people who like coding.
 
-### 🚀 Current Focus:
-- Building powerful **web applications** using **JavaScript** (both frontend and backend).
-- Continuously learning and improving my skills in **JavaScript** frameworks and libraries to develop better, more efficient solutions.
+Right now, I am focusing on improving my skills step by step. I want to become a better programmer and maybe one day work on big projects that help others.
 
-### 🌱 Long-Term Vision:
-- To become a highly skilled full-stack developer with a strong focus on **backend development** and **AI**.
-- To use my skills to create projects that are not only functional but also meaningful and impactful.
+Thanks for visiting my profile. Feel free to check my projects and maybe give me feedback. I am always ready to learn.
 
-### 💻 Tech Stack:
-- **Languages**: JavaScript
-- **Frameworks/Tools**: Node.js, Express, React, Git, GitHub
-
-### 🎯 What Drives Me:
-I am driven by the goal of creating **innovative** and **purposeful** solutions that not only solve problems but also enhance lives. I am constantly learning and improving, always striving to push the boundaries of what I can do.
-
-### 📫 Let's Connect:
-- **Email**: [mann56333@example.com](mailto:mann56333@example.com)
-
-Feel free to check out my projects and connect with me for collaboration opportunities!
